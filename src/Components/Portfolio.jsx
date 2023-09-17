@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/books.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "A books library, with full of different books";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Creative Canvas: Recent Graphic Design Projects 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Welcome to my portfolio! Here, you'll find a collection of my latest graphic design work. Each piece is a unique blend of creativity, technique, and purpose. From branding elements to eye-catching visuals, explore how I bring ideas to life through design. Take a look and get inspired!",
+    url: "https://drive.google.com/drive/folders/1nhyZ5PqCz-H-Wrd8KjC8TK_AYWchbYWK?usp=drive_link",
   },
   {
-    title: "Web Development for Beginners",
+    title: "I created a C++ course Series on youtube",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Dive into the world of C++ programming with my in-depth course series on YouTube. Whether you're a beginner or looking to refine your skills, this series covers everything from the basics to advanced concepts. Join me on this educational journey and unlock the full potential of C++. Happy coding!",
+    url: "https://www.youtube.com/watch?v=O5nHseZVmvI&t=5s",
   },
   {
-    title: "My Resume Site",
+    title: "My Portflio website where I use Html and Css",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Explore my portfolio website, where I've brought together the power of HTML and CSS to showcase my creative endeavors. From elegant layouts to seamless navigation, witness how these languages converge to create an engaging user experience. Dive in and discover the artistry behind web design!",
+    url: "https://ghulammustafa06.github.io/MustafaPortfolio/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Professional Journey: My Resume",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "This is my comprehensive resume, highlighting my skills, experience, and accomplishments. It reflects my dedication to excellence and showcases my professional journey. Take a closer look to learn more about my background and qualifications.",
+    url: "https://drive.google.com/file/d/1y6FDak_OHlUOd_NXRCVrwo2XlYDagRO0/view?usp=drive_link",
   },
 ];
 
