@@ -32,7 +32,7 @@ const siteProps = {
   linkedIn: "ghulammustafa06/",
   medium: "g.mustafa4006",
   twitter: "GhulamM40961281",
-  youTube: "Canvascode",
+  youTube: "@canvascode6/featured",
 };
 
 const primaryColor = "#4E567E";
